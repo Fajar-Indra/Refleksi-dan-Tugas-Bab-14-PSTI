@@ -126,4 +126,3 @@ Pemetaan menggunakan McFarlan Strategic Grid membantu Biro Akademik memahami apl
 
 ---
 
-**Dokumen ini dapat digunakan langsung sebagai tugas atau dilampirkan sebagai bagian dari laporan GitHub.**
