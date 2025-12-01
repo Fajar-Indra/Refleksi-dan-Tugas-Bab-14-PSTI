@@ -1,6 +1,8 @@
 📝 Tugas/Refleksi: Evaluasi Strategi TI
-Studi Kasus: Universitas Pembangunan
-Mata Kuliah: Perencanaan Strategis TI - Pertemuan 13
+
+Studi Kasus: Universitas
+
+Mata Kuliah: Perencanaan Strategis TI - Pertemuan 14
 
 Dosen Pengampu: Dr. Basuki Rahmat, S.Si. MT
 
