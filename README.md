@@ -5,9 +5,9 @@ Mata Kuliah: Perencanaan Strategis TI - Pertemuan 13
 Dosen Pengampu: Dr. Basuki Rahmat, S.Si. MT
 
 
-# McFarlan Strategic Grid untuk Biro Akademik Universitas
+# Evaluasi Strategi TI - McFarlan Strategic Grid 
 
-Dokumen ini berisi analisis portofolio aplikasi TI di lingkungan Biro Akademik Universitas berdasarkan model **McFarlan Strategic Grid**. Analisis bertujuan untuk memetakan aplikasi berdasarkan dampaknya terhadap operasi saat ini dan strategi masa depan.
+Dokumen ini berisi analisis portofolio aplikasi TI di lingkungan Universitas berdasarkan model **McFarlan Strategic Grid**. Analisis bertujuan untuk memetakan aplikasi berdasarkan dampaknya terhadap operasi saat ini dan strategi masa depan.
 
 ---
 
